@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Workshop 2:Git
+
 =======
 # Workshop 2:Git
 >>>>>>> 730567854299d6cbcb640f760cdd0e41340d5233
